@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20004" start="node1" appversion="7.0.6">
+  <panorama id="node1">
+    <input overlap="1" height="785" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="785" levelingroll="0" levelbias="0.400">
+      <level width="785" height="785" predecode="0" preload="0"/>
+      <level width="392" height="392" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-2.18" projection="4" pan="20.07" fov="122.46"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-48.63" fovpixel="2" pan="-180"/>
+      <max tilt="34.09" fovstereographic="330" pan="180" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="" longitude="" info="" nodeid="node1" title="Булак" source="" description="" comment="" author="" tags="Downloads" latitude="" heading="0" copyright="" customnodeid=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label enabled="1" borderradius="1" height="20" textalpha="1" wordwrap="1" width="180" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-5.07" description="" url="{node2}" skinid="ht_node" target="" title="" id="Point01" pan="-342.73"/>
+      <hotspot tilt="-5" description="Булак из древне утолял жажду мимо проходящих путников в жаркие дни,родники и по сей день необходимы,так как в них содержится чистая вода природного происхождения,расположен недалеко от перевала Жасыбая." url="" skinid="ht_info" target="" title="" id="Point02" pan="-351.56"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomin="0" type="crossdissolve" blendtime="1" zoomafteroutfov="40" delay="none" zoomfov="40" zoomspeed="2" zoomout="0" zoomafterinfov="140" softedge="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control zoomcentercursor="1" lockedwheel="0" hideabout="0" rubberband="0" lockedkeyboardzoom="0" contextvr="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" height="2172" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="2172" levelingroll="0" levelbias="0.400">
+      <level width="2172" height="2172" predecode="0" preload="0"/>
+      <level width="1086" height="1086" predecode="0" preload="0"/>
+      <level width="543" height="543" predecode="0" preload="0"/>
+      <level width="271" height="271" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="3.77" projection="4" pan="-2.54" fov="91.76"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-22.39" fovpixel="2" pan="0"/>
+      <max tilt="31.43" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata datetime="" longitude="" info="" nodeid="node2" title="Гора &quot;Перевал Жасыбая&quot;" source="" description="" comment="" author="" tags="Downloads" latitude="" heading="0" copyright="" customnodeid=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label enabled="1" borderradius="1" height="20" textalpha="1" wordwrap="1" width="180" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="1.14" description="" url="{node1}" skinid="ht_node" target="" title="" id="Point01" pan="-345.29"/>
+      <hotspot tilt="-1.35" description="" url="{node3}" skinid="ht_node" target="" title="" id="Point02" pan="-162.5"/>
+      <hotspot tilt="0.74" description="Жасыбай батыр много лет назад со своими братьями воевал против джунгар и калмыков,но погиб на перевале,которое в настоящее время названо в его честь" url="" skinid="ht_info" target="" title="" id="Point03" pan="-351"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomin="0" type="crossdissolve" blendtime="1" zoomafteroutfov="40" delay="none" zoomfov="40" zoomspeed="2" zoomout="0" zoomafterinfov="140" softedge="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control zoomcentercursor="1" lockedwheel="0" hideabout="0" rubberband="0" lockedkeyboardzoom="0" contextvr="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" height="1953" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="1953" levelingroll="0" levelbias="0.400">
+      <level width="1953" height="1953" predecode="0" preload="0"/>
+      <level width="976" height="976" predecode="0" preload="0"/>
+      <level width="488" height="488" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="-0.28" projection="4" pan="26.94" fov="89.29"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-25.44" fovpixel="2" pan="0"/>
+      <max tilt="26.38" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140"/>
+    </view>
+    <userdata datetime="" longitude="" info="" nodeid="node3" title="Кольцо-камень" source="" description="" comment="" author="" tags="Downloads" latitude="" heading="0" copyright="" customnodeid=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label enabled="1" borderradius="1" height="20" textalpha="1" wordwrap="1" width="180" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-2.25" description="" url="{node4}" skinid="ht_node" target="" title="" id="Point01" pan="-203.76"/>
+      <hotspot tilt="0.9" description="" url="{node2}" skinid="ht_node" target="" title="" id="Point02" pan="-36.65"/>
+      <hotspot tilt="0.97" description="Кольцо-камень - это удивительное место,которое находится по старой дороге от Торайгыра до Баянаула,у обочины дороги. Забравшись в самый центр скалы,можно наблюдать вид на неописуемую природу Баянаульского края." url="" skinid="ht_info" target="" title="" id="Point03" pan="-42.78"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomin="0" type="crossdissolve" blendtime="1" zoomafteroutfov="40" delay="none" zoomfov="40" zoomspeed="2" zoomout="0" zoomafterinfov="140" softedge="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control zoomcentercursor="1" lockedwheel="0" hideabout="0" rubberband="0" lockedkeyboardzoom="0" contextvr="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" height="899" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" width="899" levelingroll="0" levelbias="0.400">
+      <level width="899" height="899" predecode="0" preload="0"/>
+      <level width="449" height="449" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="6.36" projection="4" pan="-7.16" fov="122.46"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-32.76" fovpixel="2" pan="-180"/>
+      <max tilt="41.26" fovstereographic="330" pan="180" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="" longitude="" info="" nodeid="node4" title="Могила Жасыбай батыра" source="" description="" comment="" author="" tags="Downloads" latitude="" heading="0" copyright="" customnodeid=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label enabled="1" borderradius="1" height="20" textalpha="1" wordwrap="1" width="180" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" bordercolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="9.23" description="" url="{node3}" skinid="ht_node" target="" title="" id="Point01" pan="-214.27"/>
+      <hotspot tilt="8.85" description="Это одно из самых сакральных и уникальных мест Баянаула. В народе есть поверье,что если взять с собой камень и бросить его в могилу,то загаднное желание сбудется. Также говорят и про повязывание лент на ветки рядом стоящих деревьев." url="" skinid="ht_info" target="" title="" id="Point02" pan="-208.39"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomin="0" type="crossdissolve" blendtime="1" zoomafteroutfov="40" delay="none" zoomfov="40" zoomspeed="2" zoomout="0" zoomafterinfov="140" softedge="0" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
+    <control zoomcentercursor="1" lockedwheel="0" hideabout="0" rubberband="0" lockedkeyboardzoom="0" contextvr="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" comment="" author="" tags="" title="Баянаульский край" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
