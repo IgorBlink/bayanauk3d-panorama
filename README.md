@@ -1,0 +1,1 @@
+# bayanauk3d-panorama
